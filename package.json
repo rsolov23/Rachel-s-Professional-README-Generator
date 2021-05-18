@@ -1,0 +1,26 @@
+{
+  "name": "readme-generator",
+  "version": "1.0.0",
+  "description": "Professional README Generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rsolov23/Rachel-s-Professional-README-Generator.git"
+  },
+  "keywords": [
+    "README",
+    "Generator"
+  ],
+  "author": "Rachel Solov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rsolov23/Rachel-s-Professional-README-Generator/issues"
+  },
+  "homepage": "https://github.com/rsolov23/Rachel-s-Professional-README-Generator#readme",
+  "dependencies": {
+    "inquirer": "^8.0.0"
+  }
+}
