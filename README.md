@@ -25,7 +25,7 @@ This README Generator with make a README quick and easy by following these instr
 
 https://github.com/rsolov23
 
-### Link to my Workday Scheduler
+### Link to my README Generator
 
 https://rsolov23.github.io/Rachel-s-Professional-README-Generator/
 

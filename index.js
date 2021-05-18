@@ -88,10 +88,3 @@ function init() {
 
 // Function call to initialize app
 init();
-
-//tutor doing weird stuff
-// let exampleObj = {
-//   title: "Halo 3",
-//   name: "Rachel",
-// };
-// fs.writeFileSync("README.md", generateMarkdown(exampleObj));
