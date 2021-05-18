@@ -42,7 +42,7 @@ const questions = [
   {
     type: "input",
     name: "Usage",
-    message: "Please provide the usage information.",
+    message: "Please provide the instructions and examples for use.",
   },
   {
     type: "list",
@@ -53,7 +53,7 @@ const questions = [
   {
     type: "input",
     name: "Contributing",
-    message: "Please enter all contributing members.",
+    message: "Please enter link for contributions.",
   },
   {
     type: "input",

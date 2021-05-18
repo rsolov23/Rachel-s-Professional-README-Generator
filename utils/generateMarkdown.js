@@ -3,42 +3,42 @@ function generateMarkdown(data) {
   // Write captured input to file
 
   return `
-# ${data.Title} 
+# **${data.Title}** 
 
 ![License](https://img.shields.io/badge/License-${data.License}-blue)
 
  
 
-  ## Table of Contents
+  ## **Table of Contents**
   * [Description](#Description)
   * [Installation](#Installation)
   * [Usage](#Usage)
   * [License](#License)
-  * [Contributing Members](#Contributing-Members)
+  * [Contributing](#Contributing)
   * [Tests](#Tests)
   * [Github Username](#Github-Username)
   * [Questions](#Questions)
   
-  ### Description
+  ### **Description**
   ${data.Description}
 
-  ### Installation
+  ### **Installation**
   ${data.Installation}
 
-  ### Usage
+  ### **Usage**
   ${data.Usage}
 
-  ### License
+  ### **License**
   ${data.License}
  
-  ### Contributing Members
+  ### **Contributing** 
   ${data.Contributing}
 
-  ### Tests
+  ### **Tests**
   ${data.Tests}
 
-  ### Questions
-  #### Please contact me at rsolov23@yahoo.com if you have any further questions!
+  ### **Questions**
+  #### *Please contact me at rsolov23@yahoo.com if you have any further questions!*
   ${data.Questions}
   
   [GitHub Profile](https://github.com/${data.Github})
