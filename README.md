@@ -14,7 +14,7 @@
 
 ### Description
 
-This README Generator with make a README quick and easy by following these instructions
+This README Generator will generate a README quick and easy by following these instructions
 
 ### Instructions
 
